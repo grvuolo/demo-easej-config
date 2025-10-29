@@ -1,13 +1,13 @@
 #
 # Configuration for environment
 #
-version: 5b50295c-78a9-4c8e-ac67-8e038a5a65c4
+version: 1.0
 app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   # KLP Buid ID
-  version: ""
+  version: "5b50295c-78a9-4c8e-ac67-8e038a5a65c4"
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
